@@ -1,0 +1,2 @@
+﻿
+:r .\Scripts\SeedDB.sql
